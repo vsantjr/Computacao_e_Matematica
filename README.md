@@ -1,6 +1,6 @@
 # Computação e Matemática
 
-Esse repositório possui os programas para o curso "Computação e Matemática" para os alunos do ensino fundamental (8o. e 9o. anos) e ensino médio. Os programas foram feitos na linguagem de programação Python mas fazendo uso de notebooks ('.ipynb') em sua maioria, embora existam alguns programas com extensão '.py'.
+Esse repositório possui os programas para o curso "Computação e Matemática" para os alunos do ensino fundamental (8o. e 9o. anos) e ensino médio. Os programas foram feitos na linguagem de programação Python mas por meio de notebooks (`.ipynb`) em sua maioria, embora existam alguns programas com extensão `.py`.
 
 
 
@@ -16,6 +16,6 @@ Esse projeto é licenciado de acordo com a GNU GENERAL PUBLIC LICENSE, Version 3
 
 Para citar esse repositório:
 
-V. A. Santiago J&uacute;nior. Computação\_e\_Matemática, 2022. Acessado em: *data de acesso*. Disponível em: https://github.com/vsantjr/Computação\_e\_Matemática. 
+V. A. Santiago J&uacute;nior. Curso Computação e Matemática, 2022. Acessado em: *data de acesso*. Disponível em: https://github.com/vsantjr/Computacao\_e\_Matematica. 
 
 
