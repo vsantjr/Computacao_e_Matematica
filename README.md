@@ -16,6 +16,6 @@ Esse projeto é licenciado de acordo com a GNU GENERAL PUBLIC LICENSE, Version 3
 
 Para citar esse repositório:
 
-V. A. Santiago J&uacute;nior. Curso Computação e Matemática, 2022. Acessado em: *data de acesso*. Disponível em: https://github.com/vsantjr/Computacao\_e\_Matematica. 
+V. A. Santiago J&uacute;nior. Curso Computação e Matemática, 2022. Acessado em: *data de acesso*. Disponível em: https://github.com/vsantjr/Computacao_e_Matematica. 
 
 
