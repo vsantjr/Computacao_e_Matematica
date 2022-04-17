@@ -6,7 +6,7 @@ Sobre os programas (notebooks `.ipynb`), ao acessar os links abaixo, as figuras 
 
 ## Aulas
 
-Abaixo estão as informações, programas (acesse o link) e links de acesso aos vídeos, relativas às aulas.
+Abaixo estão as informações, programas (acesse o link) e vídeos (acesse o link), relativas às aulas.
 
 | Programa | Vídeo | 
 | -------------- | -------------- |
@@ -30,19 +30,20 @@ Abaixo estão as informações, programas (acesse o link) e links de acesso aos 
 | [Aula 15: Polígonos - Triângulos](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A15_Tri%C3%A2ngulos.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=TE8tbDF4RQ0) |
 | [Aula 16: Polígonos - Quadriláteros](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A16_Quadril%C3%A1teros.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=csacCIyL27s) |
 | [Aula 17: Jogos e Matemática ](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A17_Pygame.ipynb). Extra: [.py-1](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/Pygame1.py), [.py-2](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/Pygame2.py), [.py-3](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/Pygame3.py) | [Acesse aqui](https://www.youtube.com/watch?v=-2xN9If-Kuk) |
-| []() | [Acesse aqui]() |
-| []() | [Acesse aqui]() |
-| []() | [Acesse aqui]() |
-| []() | [Acesse aqui]() |
-| []() | [Acesse aqui]() |
-| []() | [Acesse aqui]() |
-| []() | [Acesse aqui]() |
-| []() | [Acesse aqui]() |
-| []() | [Acesse aqui]() |
-| []() | [Acesse aqui]() |
-| []() | [Acesse aqui]() |
-| []() | [Acesse aqui]() |
-| []() | [Acesse aqui]() |
+| [Aula 18: Regra de Três Composta](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A18_RegraTresComposta.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=Oo-KaS7x5zo&t=160s) |
+| [Aula 19: Plano R2](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A19_PlanoR2.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=-lpZwvfZw3s) |
+| [Aula 20: Gráficos Representando Relações + Batman](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A20_GraficosRelacoes.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=EfAn6M_o2A8) |
+| [Aula 21: Inequações - Parte 1](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A21_InequacoesP1.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=nEiToOsUO5E) |
+| [Aula 22: Inequações - Parte 2 + Bugs](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A22_InequacoesP2.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=77xx7_pvCf4) |
+| [Aula 23: Circunferência - Parte 1](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A23_CircunferenciaP1.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=tAL1Ci-b1tg) |
+| [Aula 24: Circunferência - Parte 2](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A24_CircunferenciaP2.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=pcwcdYhNsVE) |
+| [Aula 25: Circunferência - Parte 3](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A25_CircunferenciaP3.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=5h2dVumuuU0) |
+| [Aula 26: Triângulos Inscritos e Circunscritos a uma Circunferência](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A26_TrianguloInscCircCircunferencia.ipynb). Extra: [.py](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/minhasfuncoes.py) | [Acesse aqui](https://www.youtube.com/watch?v=nMkJ0j-_RlA) |
+| [Aula 27: Quadriláteros Inscritos e Circunscritos a uma Circunferência](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A27_QuadrilateroInscCircCircunferencia.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=anfcOngj6F0) |
+| [Aula 28: Funções - Parte 1](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A28_FuncoesP1.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=D5htzX_rpMM&t=9s) |
+| [Aula 29: Funções - Parte 2](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A29_FuncoesP2.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=kdwZxMgvI-M) |
+| [Aula 30: Funções - Parte 3](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A30_FuncoesP3.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=dpv0b0LPPOI) |
+
 
 
 
