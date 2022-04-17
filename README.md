@@ -9,8 +9,8 @@ Abaixo estão as informações (programas e links de acesso aos vídeos) relativ
 | Assunto | Programa | Vídeo | 
 | -------------- | -------------- |--------------|
 | Introdução ao Curso | - | [Acesse aqui](https://www.youtube.com/watch?v=mKq1QJO6E-E&t=16s) |
-| Aula introdutória para uso do Google Colab| [Acesse aqui](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/CompMatUpload.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=J_ugvSmOVtg) |
-| Aula introdutória para fazer download dos programas (".ipynb", ".py") do GitHub | - | [Acesse aqui](https://www.youtube.com/watch?v=dJsK2uhmSbk) |
+| Aula introdutória: Google Colab| [Acesse aqui](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/CompMatUpload.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=J_ugvSmOVtg) |
+| Aula introdutória: download dos programas via GitHub | - | [Acesse aqui](https://www.youtube.com/watch?v=dJsK2uhmSbk) |
 | | | |
 | | | |
 
