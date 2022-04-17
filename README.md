@@ -18,32 +18,31 @@ Abaixo estão as informações, programas (acesse o link) e links de acesso aos 
 | [Aula 03: Python (Operadores Relacionais e Estruturas de Controle)](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A03_PythonRelacionaisControle.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=eysqUT1ogZI) |
 | [Aula 04: Python (Operadores Lógicos)](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A04_PythonLogicos.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=ScpGVWciijM) |
 | [Aula 05: Python (Listas)](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A05_PythonListas.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=MCqHmYAVYSM) |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
-
+| [Aula 06: Python (Estruturas de Repetição)](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A06_PythonRepeticao.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=BSVDM-wdq64) |
+| [Aula 07: Python (Funções)](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A07_PythonFuncoes.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=ACsjn0kfUB8) |
+| [Aula 08: Python (Gráficos)](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A08_PythonGraficos.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=7nUwi5ZJKhg) |
+| [Aula 09: Variáveis Proporcionais - Parte 1](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A09_VarProporcionaisP1.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=VmCb2YaJYQY) |
+| [Aula 10: Variáveis Proporcionais - Parte 2](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A10_VarProporcionaisP2.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=R7N5M6RkZdc) |
+| [Aula 11: Regra de Três Simples](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A11_RegraTresSimples.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=OkL72OvrBxg) |
+| [Aula 12: Sistemas de Duas Equações e Duas Variáveis - Parte 1](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A12_SistemaEquacoesVarP1.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=3Chlh9uzzv0) |
+| [Aula 13: Sistemas de Duas Equações e Duas Variáveis - Parte 2](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A13_SistemaEquacoesVarP2.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=sTFzAqW9eMQ) |
+| [Aula 14: Sistemas de Duas Equações e Duas Variáveis - Parte 3](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A14_SistemaEquacoesVarP3.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=0UlbXLj7zeg) |
+| [Aula 15: Polígonos - Triângulos](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A15_Tri%C3%A2ngulos.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=TE8tbDF4RQ0) |
+| [Aula 16: Polígonos - Quadriláteros](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A16_Quadril%C3%A1teros.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=csacCIyL27s) |
+| [Aula 17: Jogos e Matemática ](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A17_Pygame.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=-2xN9If-Kuk) |
+| []() | [Acesse aqui]() |
+| []() | [Acesse aqui]() |
+| []() | [Acesse aqui]() |
+| []() | [Acesse aqui]() |
+| []() | [Acesse aqui]() |
+| []() | [Acesse aqui]() |
+| []() | [Acesse aqui]() |
+| []() | [Acesse aqui]() |
+| []() | [Acesse aqui]() |
+| []() | [Acesse aqui]() |
+| []() | [Acesse aqui]() |
+| []() | [Acesse aqui]() |
+| []() | [Acesse aqui]() |
 
 
 
