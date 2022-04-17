@@ -29,7 +29,7 @@ Abaixo estão as informações, programas (acesse o link) e links de acesso aos 
 | [Aula 14: Sistemas de Duas Equações e Duas Variáveis - Parte 3](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A14_SistemaEquacoesVarP3.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=0UlbXLj7zeg) |
 | [Aula 15: Polígonos - Triângulos](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A15_Tri%C3%A2ngulos.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=TE8tbDF4RQ0) |
 | [Aula 16: Polígonos - Quadriláteros](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A16_Quadril%C3%A1teros.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=csacCIyL27s) |
-| [Aula 17: Jogos e Matemática ](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A17_Pygame.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=-2xN9If-Kuk) |
+| [Aula 17: Jogos e Matemática ](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A17_Pygame.ipynb). Extra: [.py-1](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/Pygame1.py), [.py-2](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/Pygame2.py), [.py-3](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/Pygame3.py) | [Acesse aqui](https://www.youtube.com/watch?v=-2xN9If-Kuk) |
 | []() | [Acesse aqui]() |
 | []() | [Acesse aqui]() |
 | []() | [Acesse aqui]() |
