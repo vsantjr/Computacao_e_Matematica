@@ -1,18 +1,48 @@
 # Computação e Matemática
 
-Esse repositório possui as informações (programas e links de acesso aos vídeos) relacionadas ao curso "Computação e Matemática", destinado aos alunos do ensino fundamental (8o. e 9o. anos) e ensino médio. Os programas foram feitos na linguagem de programação Python e, em sua maioria, por meio de notebooks (`.ipynb`). Para executar os programas, basta ter uma conta no Google e acessar o [Google Colab](https://colab.research.google.com/). No entanto, existem alguns programas com extensão `.py`.
+Esse repositório possui as informações (programas e links de acesso aos vídeos) relacionadas ao curso "Computação e Matemática", destinado aos alunos do ensino fundamental (8o. e 9o. anos) e ensino médio. Os programas foram feitos na linguagem de programação Python e, em sua maioria, por meio de notebooks (`.ipynb`). Para executar os programas, basta ter uma conta no Google e acessar o [Google Colab](https://colab.research.google.com/). No entanto, existem alguns programas com extensão `.py`. 
+
+Sobre os programas, ao acessar os links abaixo, as figuras podem não aparecer. Mas, abrindo no Google Colab que é onde os programas serão executados, todas as figuras aparecem normalmente. Para melhor visualizar os vídeos, interessante escolher a qualidade de reprodução 1080p (HD).
 
 ## Aulas
 
 Abaixo estão as informações (programas e links de acesso aos vídeos) relativas às aulas.
 
-| Assunto | Programa | Vídeo | 
+| Aula | Programa | Vídeo | 
 | -------------- | -------------- |--------------|
 | Introdução ao Curso | - | [Acesse aqui](https://www.youtube.com/watch?v=mKq1QJO6E-E&t=16s) |
-| Aula introdutória: Google Colab| [Acesse aqui](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/CompMatUpload.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=J_ugvSmOVtg) |
-| Aula introdutória: download dos programas via GitHub | - | [Acesse aqui](https://www.youtube.com/watch?v=dJsK2uhmSbk) |
-| | | |
-| | | |
+| Aula Introdutória: Google Colab | [Acesse aqui](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/CompMatUpload.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=J_ugvSmOVtg) |
+| Aula Introdutória: Download dos Programas via GitHub | - | [Acesse aqui](https://www.youtube.com/watch?v=dJsK2uhmSbk) |
+| Aula 01: Python (Organização e Variáveis) | [Acesse aqui](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A01_PythonOrganizacaoVar.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=6cLpNHEQXBo) |
+| Aula 02: Python (Operadores Aritméticos) | [Acesse aqui](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A02_PythonAritmeticos.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=I0LdlxfQg5s) |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A03_PythonRelacionaisControle.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=eysqUT1ogZI) |
+| Aula 04: Python (Operadores Lógicos) | [Acesse aqui](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A04_PythonLogicos.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=ScpGVWciijM) |
+| Aula 05: Python (Listas) | [Acesse aqui](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/A05_PythonListas.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=MCqHmYAVYSM) |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
+| Aula 03: Python (Operadores Relacionais e Estruturas de Controle) | [Acesse aqui]() | [Acesse aqui]() |
 
 
 
