@@ -6,10 +6,10 @@ Esse repositório possui as informações (programas e links de acesso aos víde
 
 Abaixo estão as informações (programas e links de acesso aos vídeos) relativas às aulas.
 
-| Assunto  	     | Programa 			| Vídeo   | 
-| -------------- | -------------- |--------------|--------------|
-| Introdução ao Curso  		| -  		| [Acesse aqui](https://www.youtube.com/watch?v=mKq1QJO6E-E&t=16s)           |
-| Aula introdutória para uso do Google Colab| [Acesse aqui](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/CompMatUpload.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=J_ugvSmOVtg)   |
+| Assunto | Programa | Vídeo | 
+| -------------- | -------------- |--------------|
+| Introdução ao Curso  		| -  		| [Acesse aqui](https://www.youtube.com/watch?v=mKq1QJO6E-E&t=16s)  |
+| Aula introdutória para uso do Google Colab| [Acesse aqui](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/CompMatUpload.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=J_ugvSmOVtg) |
 | nvidia_dev  		| B715  		|2        |
 | nvidia_scal  		| B715  		|2        |
 | nvidia_long  		| B715  		|2        |
