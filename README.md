@@ -1,5 +1,7 @@
 # Computação e Matemática
 
+<img src="https://github.com/vsantjr/CAP/blob/master/Images/logogitcompmat.png" width=58%>
+
 Esse repositório possui as informações (programas e links de acesso aos vídeos) relacionadas ao curso "Computação e Matemática", destinado aos alunos do ensino fundamental (8o. e 9o. anos) e ensino médio. Os programas foram feitos na linguagem de programação Python e, em sua maioria, por meio de notebooks (`.ipynb`). Para executar os programas, basta ter uma conta no Google e acessar o [Google Colab](https://colab.research.google.com/). No entanto, existem alguns programas com extensão `.py`. 
 
 Sobre os programas (notebooks `.ipynb`), ao acessar os links abaixo, as figuras podem não aparecer. Mas, abrindo no Google Colab que é onde os programas serão executados, todas as figuras aparecem normalmente. Para melhor visualizar os vídeos, interessante escolher a qualidade de reprodução 1080p (HD).
