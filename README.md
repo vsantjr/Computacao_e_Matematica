@@ -1,6 +1,21 @@
 # Computação e Matemática
 
-Esse repositório possui os programas para o curso "Computação e Matemática" para os alunos do ensino fundamental (8o. e 9o. anos) e ensino médio. Os programas foram feitos na linguagem de programação Python mas por meio de notebooks (`.ipynb`) em sua maioria, embora existam alguns programas com extensão `.py`.
+Esse repositório possui as informações (programas e links de acesso aos vídeos) relacionadas ao curso "Computação e Matemática", destinado aos alunos do ensino fundamental (8o. e 9o. anos) e ensino médio. Os programas foram feitos na linguagem de programação Python e, em sua maioria, por meio de notebooks (`.ipynb`). Para executar os programas, basta ter uma conta no Google e acessar o [Google Colab](https://colab.research.google.com/). No entanto, existem alguns programas com extensão `.py`.
+
+## Aulas
+
+Abaixo estão as informações (programas e links de acesso aos vídeos) relativas às aulas.
+
+| Assunto  	     | Programa 			| Vídeo   | 
+| -------------- | -------------- |--------------|--------------|
+| Introdução ao Curso  		| -  		| [Acesse aqui](https://www.youtube.com/watch?v=mKq1QJO6E-E&t=16s)           |
+| Aula introdutória para uso do Google Colab| [Acesse aqui](https://github.com/vsantjr/Computacao_e_Matematica/blob/master/CompMatUpload.ipynb) | [Acesse aqui](https://www.youtube.com/watch?v=J_ugvSmOVtg)   |
+| nvidia_dev  		| B715  		|2        |
+| nvidia_scal  		| B715  		|2        |
+| nvidia_long  		| B715  		|2        |
+| het_scal 		| B715  		|2            |
+| gdl 		| AI 		|8                    |
+| sequana_gpu_shared  		| BSeq  	|4    |
 
 
 
